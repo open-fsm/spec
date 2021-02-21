@@ -1,1 +1,1 @@
-# spec
+# VR protocol specification
